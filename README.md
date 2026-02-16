@@ -1,1 +1,16 @@
-# SamGue
+# about me
+
+
+# Languages and tools
+
+
+
+# Hobbies and Projects
+
+
+# Education
+
+
+# Language
+
+https://camo.githubusercontent.com/ff8d41f8e303c5899d74968dcd3c836e4938b1c3461b9fa1de3ed8a6ff201ed2/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f382f38392f42616e646572615f64655f45737061254333254231612e737667
