@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/88d10d64-e65d-4331-805e-437455b925fa" />
+  <img width="498" height="281" alt="image" src="[https://github.com/user-attachments/assets/88d10d64-e65d-4331-805e-437455b925fa](https://itunes.apple.com/app/apple-store/id917932200?pt=39040802&ct=Media1GIFV2&mt=8)" />
 
 </p>
 
