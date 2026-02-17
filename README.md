@@ -23,12 +23,8 @@ I'm a higher education student in systems and computing, i'm really interested i
 [![My Skills - light](https://skillicons.dev/icons?i=mint,java,py,html,css,mysql,linux,git,github,obsidian,notion,linkedin,discor&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
-<!-- LATEST PROJECTS -->
-## Featured Projects
-
-
-
 ## Education
+<img width="2781" height="1182" alt="image" src="https://github.com/user-attachments/assets/52a7418a-bde1-42f0-a7e0-2bc8380e1db8" />
 
 
 ## Language
