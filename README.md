@@ -1,18 +1,3 @@
-# about me
-
-
-# Languages and tools
-
-
-
-# Hobbies and Projects
-
-
-# Education
-
-
-# Language
-
 <!-- HEADER -->
 <p align="center">
   <img src="your-banner.png" alt="banner"/>
@@ -29,20 +14,19 @@
 </p>
 
 <!-- ABOUT -->
-## 🚀 About Me
-[Your description]
+## About Me
+
 
 <!-- STATS -->
-## 📊 GitHub Stats
-[Your stats cards]
+## GitHub Stats
+
 
 <!-- LATEST PROJECTS -->
-## 🛠️ Featured Projects
-[Project cards]
+## Featured Projects
 
-<!-- CONTACT -->
-## 📫 Connect With Me
-[Contact information]
+## Education
+
+## Language
 
 <!-- FOOTER -->
-<p align="center">⭐️ From [yourusername]</p>
+<p align="center">⭐️ From [odairo3]</p>
