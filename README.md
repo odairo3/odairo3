@@ -1,7 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/2746655a-d586-47ce-8436-27d030529e6b"/>
-" alt="banner"/>
+<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c6b8a557-875e-4fc0-8ba5-5e4b5ed0afe3" />
+
 </p>
 
 <!-- INTRODUCTION -->
