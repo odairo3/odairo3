@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-<img width="637" height="358" alt="image" src="https://github.com/user-attachments/assets/c6b8a557-875e-4fc0-8ba5-5e4b5ed0afe3" />
+<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/f98b2bdc-52ba-414a-be6b-9dbd2edb788a" />
+
 
 </p>
 
