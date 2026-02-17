@@ -7,11 +7,6 @@
 <h1 align="center">Hello, I'm Samuel</h1>
 <h3 align="center">[I want to learn and grow]</h3>
 
-<!-- SOCIAL BADGES -->
-<p align="center">
-  <a href="your-linkedin"><img src="linkedin-badge"/></a>
-  <a href="your-twitter"><img src="twitter-badge"/></a>
-</p>
 
 <!-- ABOUT -->
 ## About Me
