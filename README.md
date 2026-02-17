@@ -30,9 +30,10 @@
 
 
 ## Language
+<p align="center">
 <img width="243" height="136" alt="image" src="https://github.com/user-attachments/assets/68ada1d3-494a-470a-9478-628a107c9182" />
 <img width="250" height="132" alt="image" src="https://github.com/user-attachments/assets/6cd31413-7c4a-4b97-a468-7385fc8c2f8e" />
 <img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/87ccb640-9806-4bbb-8146-e5a62498435a" />
-
+</p>
 <!-- FOOTER -->
 <p align="center">⭐️ From [odairo3]</p>
