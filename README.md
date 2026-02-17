@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="13688614726790283991" data-share-method="host" data-aspect-ratio="1.76596" data-width="100%"><a href="https://tenor.com/view/cave-story-moon-clouds-outer-wall-gif-13688614726790283991">Cave Story Moon Clouds Outer Wall GIF</a>from <a href="https://tenor.com/search/cave+story+moon+clouds+outer+wall-gifs">Cave Story Moon Clouds Outer Wall GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://tenor.com/es/view/cave-story-moon-clouds-outer-wall-gif-13688614726790283991" alt="Animated pixel art of moon and clouds from Cave Story" width="80%">
 </p>
 
 <!-- INTRODUCTION -->
