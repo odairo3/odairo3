@@ -4,7 +4,7 @@
 </p>
 
 <!-- INTRODUCTION -->
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h1 align="center">Hello, I'm Samuel</h1>
 <h3 align="center">[Your Tagline]</h3>
 
 <!-- SOCIAL BADGES -->
@@ -18,7 +18,9 @@
 
 
 <!-- STATS -->
-## GitHub Stats
+## My skills
+[![My Skills - dark](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,tailwind,mysql,mongodb,redis,laravel,spring,symfony,vite,nodejs,npm,maven,docker,linux,windows,apple,aws,git,github,vscode,phpstorm,obsidian,htmx,svg,md,notion,linkedin,discord&theme=dark#gh-dark-mode-only)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills - light](https://skillicons.dev/icons?i=arch,java,py,php,js,html,css,tailwind,mysql,mongodb,redis,laravel,spring,symfony,vite,nodejs,npm,maven,docker,linux,windows,apple,aws,git,github,vscode,phpstorm,obsidian,htmx,svg,md,notion,linkedin,discord&theme=light#gh-light-mode-only)](https://skillicons.dev#gh-light-mode-only)<br>
 
 
 <!-- LATEST PROJECTS -->
