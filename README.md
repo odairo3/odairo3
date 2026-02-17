@@ -5,7 +5,7 @@
 
 <!-- INTRODUCTION -->
 <h1 align="center">Hello, I'm Samuel</h1>
-<h3 align="center">[Your Tagline]</h3>
+<h3 align="center">[I want to learn and grow]</h3>
 
 <!-- SOCIAL BADGES -->
 <p align="center">
@@ -15,7 +15,7 @@
 
 <!-- ABOUT -->
 ## About Me
-
+I'm a higher education student in systems and computing, i'm really interested in learning as much as i can about the branches of computer science and engineering, but i'm particularly interested in making videogames and cybersecurity.
 
 <!-- STATS -->
 ## My skills
@@ -25,6 +25,8 @@
 
 <!-- LATEST PROJECTS -->
 ## Featured Projects
+
+
 
 ## Education
 
