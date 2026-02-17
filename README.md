@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-  <img width="700" height="200" alt="Animated pixel art banner" src="https://github.com/odairo3/odairo3/edit/main/cave_story.gif?raw=true">
+  <img width="700" height="200" alt="Animated pixel art banner" src="https://github.com/odairo3/odairo3/blob/main/cave%20story.gif?raw=true">
 </p>
 
 <!-- INTRODUCTION -->
