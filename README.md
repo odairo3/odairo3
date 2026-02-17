@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="https://tenor.com/es/view/cave-story-moon-clouds-outer-wall-gif-13688614726790283991" alt="Animated pixel art of moon and clouds from Cave Story" width="80%">
+  <img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/88d10d64-e65d-4331-805e-437455b925fa" />
+
 </p>
 
 <!-- INTRODUCTION -->
