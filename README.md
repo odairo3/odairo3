@@ -1,8 +1,6 @@
 <!-- HEADER -->
 <p align="center">
-<img width="700" height="200" alt="image" src="[https://github.com/user-attachments/assets/f98b2bdc-52ba-414a-be6b-9dbd2edb788a](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcavestory%2Fcomments%2Fkrccc8%2Fbeyond_the_outer_wall_animated_pixel_art%2F&psig=AOvVaw3XhgIO48DuPLwfpveE34KS&ust=1771381431807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiJ4Jm835IDFQAAAAAdAAAAABAX)" />
-
-
+  <img width="700" height="200" alt="banner" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.reddit.com%2Fr%2Fcavestory%2Fcomments%2Fkrccc8%2Fbeyond_the_outer_wall_animated_pixel_art%2F&psig=AOvVaw3XhgIO48DuPLwfpveE34KS&ust=1771381431807000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLiJ4Jm835IDFQAAAAAdAAAAABAX">
 </p>
 
 <!-- INTRODUCTION -->
