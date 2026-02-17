@@ -1,6 +1,7 @@
 <!-- HEADER -->
 <p align="center">
-  <img src="<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/d0f6808c-aa9d-4a08-9a14-2871126c5437" />" alt="banner"/>
+  <img src="<img width="498" height="281" alt="image" src="https://github.com/user-attachments/assets/2746655a-d586-47ce-8436-27d030529e6b"/>
+" alt="banner"/>
 </p>
 
 <!-- INTRODUCTION -->
@@ -33,6 +34,6 @@
 <img width="243" height="136" alt="image" src="https://github.com/user-attachments/assets/68ada1d3-494a-470a-9478-628a107c9182" />
 <img width="250" height="132" alt="image" src="https://github.com/user-attachments/assets/6cd31413-7c4a-4b97-a468-7385fc8c2f8e" />
 <img width="225" height="150" alt="image" src="https://github.com/user-attachments/assets/87ccb640-9806-4bbb-8146-e5a62498435a" />
-" />
+
 <!-- FOOTER -->
 <p align="center">⭐️ From [odairo3]</p>
